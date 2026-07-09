@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Gauravsahu889/CodingProblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gauravsahu889/CodingProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/Gauravsahu889/CodingProblems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Gauravsahu889/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0090-subsets-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0090-subsets-ii) |
 | [0455-assign-cookies](https://github.com/Gauravsahu889/CodingProblems/tree/master/0455-assign-cookies) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Gauravsahu889/CodingProblems/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |

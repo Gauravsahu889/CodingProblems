@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gauravsahu889/CodingProblems/tree/master/0042-trapping-rain-water) |
+| [0132-palindrome-partitioning-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0132-palindrome-partitioning-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0132-palindrome-partitioning-ii) |
 <!---LeetCode Topics End-->

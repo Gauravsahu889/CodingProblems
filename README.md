@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Gauravsahu889/CodingProblems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gauravsahu889/CodingProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Gauravsahu889/CodingProblems/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Gauravsahu889/CodingProblems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gauravsahu889/CodingProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gauravsahu889/CodingProblems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Gauravsahu889/CodingProblems/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0090-subsets-ii) |
 | [0455-assign-cookies](https://github.com/Gauravsahu889/CodingProblems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Gauravsahu889/CodingProblems/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Gauravsahu889/CodingProblems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravsahu889/CodingProblems/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sorting
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gauravsahu889/CodingProblems/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Gauravsahu889/CodingProblems/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |

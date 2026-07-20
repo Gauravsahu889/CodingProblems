@@ -1,25 +1,24 @@
 class Solution {
 public:
     vector<int> nextGreaterElement(vector<int>& nums1, vector<int>& nums2) {
-        vector<int> res;
-        for(int x:nums1){
-            int ans=-1;
+        stack<int> st;
+        unordered_map<int, int> nextGreater; // Keeps track of map name
 
-            //found x 
-            for(int i=0;i<nums2.size();i++){
-                if(nums2[i]==x){
-                    for(int j=i+1;j<nums2.size();j++){
-                        if(nums2[j]>x){
-                            ans=nums2[j];
-                            break;
-                        }
-                    }
-                    break;
-                }
+        // Fixed: Loop starts at nums2.size() - 1 to avoid segmentation fault
+        for(int i = nums2.size() - 1; i >= 0; i--) {
+            while(!st.empty() && st.top() <= nums2[i]) {
+                st.pop();
             }
-            res.push_back(ans);
+            // Fixed: Access elements using index [i] instead of the whole vector
+            nextGreater[nums2[i]] = st.empty() ? -1 : st.top();
+            st.push(nums2[i]); 
+        }
+
+        vector<int> res;
+        for(int x : nums1) {
+            // Fixed: Changed name to match the declared variable nextGreater
+            res.push_back(nextGreater[x]);
         }
         return res;
-    
     }
 };

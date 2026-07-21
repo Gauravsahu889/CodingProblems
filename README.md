@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gauravsahu889/CodingProblems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gauravsahu889/CodingProblems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gauravsahu889/CodingProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/Gauravsahu889/CodingProblems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Gauravsahu889/CodingProblems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Gauravsahu889/CodingProblems/tree/master/0234-palindrome-linked-list) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Gauravsahu889/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Gauravsahu889/CodingProblems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Gauravsahu889/CodingProblems/tree/master/0051-n-queens) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gauravsahu889/CodingProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0090-subsets-ii) |
 | [0455-assign-cookies](https://github.com/Gauravsahu889/CodingProblems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Gauravsahu889/CodingProblems/tree/master/0485-max-consecutive-ones) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gauravsahu889/CodingProblems/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Gauravsahu889/CodingProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Gauravsahu889/CodingProblems/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |

@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gauravsahu889/CodingProblems/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Gauravsahu889/CodingProblems/tree/master/0060-permutation-sequence) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gauravsahu889/CodingProblems/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Gauravsahu889/CodingProblems/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/Gauravsahu889/CodingProblems/tree/master/0455-assign-cookies) |
+| [3536-maximum-product-of-two-digits](https://github.com/Gauravsahu889/CodingProblems/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
 | ------- |

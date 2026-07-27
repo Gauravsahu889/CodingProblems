@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gauravsahu889/CodingProblems/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Gauravsahu889/CodingProblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gauravsahu889/CodingProblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gauravsahu889/CodingProblems/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gauravsahu889/CodingProblems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Gauravsahu889/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0132-palindrome-partitioning-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0132-palindrome-partitioning-ii) |
 ## Monotonic Stack
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gauravsahu889/CodingProblems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Gauravsahu889/CodingProblems/tree/master/0020-valid-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Gauravsahu889/CodingProblems/tree/master/0151-reverse-words-in-a-string) |

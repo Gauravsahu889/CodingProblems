@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Gauravsahu889/CodingProblems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Gauravsahu889/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0132-palindrome-partitioning-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0132-palindrome-partitioning-ii) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gauravsahu889/CodingProblems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Gauravsahu889/CodingProblems/tree/master/0020-valid-parentheses) |
 | [0132-palindrome-partitioning-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Gauravsahu889/CodingProblems/tree/master/0151-reverse-words-in-a-string) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gauravsahu889/CodingProblems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Binary Search
 |  |
 | ------- |

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Gauravsahu889/CodingProblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Gauravsahu889/CodingProblems/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Gauravsahu889/CodingProblems/tree/master/0496-next-greater-element-i) |
+| [3731-find-missing-elements](https://github.com/Gauravsahu889/CodingProblems/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Gauravsahu889/CodingProblems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Gauravsahu889/CodingProblems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravsahu889/CodingProblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [3731-find-missing-elements](https://github.com/Gauravsahu889/CodingProblems/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Gauravsahu889/CodingProblems/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Gauravsahu889/CodingProblems/tree/master/0455-assign-cookies) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gauravsahu889/CodingProblems/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Gauravsahu889/CodingProblems/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |

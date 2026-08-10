@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gauravsahu889/CodingProblems/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Gauravsahu889/CodingProblems/tree/master/0060-permutation-sequence) |
+| [1510-stone-game-iv](https://github.com/Gauravsahu889/CodingProblems/tree/master/1510-stone-game-iv) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gauravsahu889/CodingProblems/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Gauravsahu889/CodingProblems/tree/master/0042-trapping-rain-water) |
 | [0132-palindrome-partitioning-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gauravsahu889/CodingProblems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1510-stone-game-iv](https://github.com/Gauravsahu889/CodingProblems/tree/master/1510-stone-game-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -178,4 +180,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Gauravsahu889/CodingProblems/tree/master/0239-sliding-window-maximum) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Gauravsahu889/CodingProblems/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Gauravsahu889/CodingProblems/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Gauravsahu889/CodingProblems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Gauravsahu889/CodingProblems/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Gauravsahu889/CodingProblems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->

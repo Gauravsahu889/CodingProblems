@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Gauravsahu889/CodingProblems/tree/master/0002-add-two-numbers) |
 | [0060-permutation-sequence](https://github.com/Gauravsahu889/CodingProblems/tree/master/0060-permutation-sequence) |
 | [1510-stone-game-iv](https://github.com/Gauravsahu889/CodingProblems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Gauravsahu889/CodingProblems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Gauravsahu889/CodingProblems/tree/master/2029-stone-game-ix) |
 | [3536-maximum-product-of-two-digits](https://github.com/Gauravsahu889/CodingProblems/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Gauravsahu889/CodingProblems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Gauravsahu889/CodingProblems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gauravsahu889/CodingProblems/tree/master/0540-single-element-in-a-sorted-array) |
+| [1872-stone-game-viii](https://github.com/Gauravsahu889/CodingProblems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Gauravsahu889/CodingProblems/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Gauravsahu889/CodingProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Gauravsahu889/CodingProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Gauravsahu889/CodingProblems/tree/master/0132-palindrome-partitioning-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Gauravsahu889/CodingProblems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1510-stone-game-iv](https://github.com/Gauravsahu889/CodingProblems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Gauravsahu889/CodingProblems/tree/master/1872-stone-game-viii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -201,11 +204,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Gauravsahu889/CodingProblems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Gauravsahu889/CodingProblems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Gauravsahu889/CodingProblems/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Gauravsahu889/CodingProblems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Gauravsahu889/CodingProblems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Gauravsahu889/CodingProblems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -220,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Gauravsahu889/CodingProblems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Gauravsahu889/CodingProblems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Gauravsahu889/CodingProblems/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -229,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Gauravsahu889/CodingProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Gauravsahu889/CodingProblems/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
